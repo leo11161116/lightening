@@ -11,7 +11,7 @@ def app_wrapper(No):
         1:ln1,
         2:ln2
     }[No]
-
+# 这个函数是什么意思
 
 # Linear versions:
 def ln1(X):
